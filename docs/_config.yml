@@ -23,8 +23,8 @@ email: arnoldyahad@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
 domain: arnoldyahad.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://arnoldyahad.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /arnoldyahad.github.io/ 
+url: ""  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: "" 
 
 twitter_username: jekyllrb
 github_username:  jekyll
