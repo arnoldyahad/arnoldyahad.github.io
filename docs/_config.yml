@@ -32,7 +32,7 @@ github_username:  arnoldyahad
 # Build settings
 # theme: minima
 
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 
 skin: dark
 
@@ -40,7 +40,9 @@ minima:
   skin: dark
 plugins:
   - jekyll-feed
-  
+social_links:
+  github: arnoldyahad
+
 sass:
     sass_dir: assets
     style: compressed  
