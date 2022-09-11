@@ -3,6 +3,7 @@ layout: post
 title:  "Rome 2022"
 date:   2022-09-10 14:09:25 +0300
 categories: vacations
+permalink: /rome/
 ---
 
 Hey, I have traveled to Rome recently and wanted to share some recommandations here, this is purely my personal taste.
